@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="session.php" method="post">
+    <form action="login.php" method="post">
         <marquee behavior="" direction="">SELAMATDATANG</marquee>
         <div>
             Username : <input type="text" name="username" id="">
